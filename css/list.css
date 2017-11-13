@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+
+.list-tu dl{
+	width: 750px;
+	padding: 20px 0;
+	border-bottom: 1px solid #B2B2B2;
+	overflow: hidden;
+}
+
+.list-tu dl span{
+	padding: 5px;
+	float: left;
+	border: 1px solid #dfe2e3;
+	box-shadow: 2px 5px 5px #797979;
+	margin-right: 60px;
+}
+
+.list-tu dl dt{
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+
+.list-tu dl dd{
+	width: 700px;
+}
+
+.list-nwes ul{
+	border-bottom: 4px solid #ddd;
+}
+
+.list-nwes .nwes-top{
+	height: 70px;
+	background-color: #fff;
+	padding-top: 5px;
+	margin-bottom: 20px;
+}
+
+.list-nwes .nwes-top li{
+	padding:10px 0 0px 30px;
+}
